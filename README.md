@@ -1,7 +1,7 @@
 
 # **Trabalho Prático 1 – Busca em Profundidade (DFS)**
 
-## **Quem está participando:**
+## **Alunos Partipantes:**
 - **Eduardo**
 - **Samara**
 - **Shay**
