@@ -1,6 +1,6 @@
 from busca_profundidade import busca_profundidade
 from apoio_visual import desenhar_grafo
-import grafo  # importa todos os grafos
+import grafo  
 
 # Dicionário associando opções a grafos
 opcoes_grafos = {
