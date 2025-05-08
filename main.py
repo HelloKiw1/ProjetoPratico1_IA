@@ -8,7 +8,6 @@ opcoes_grafos = {
     "2": ("Grafo com Ciclo", grafo.grafo_2),
     "3": ("Grafo com Múltiplos Caminhos", grafo.grafo_3),
     "4": ("Grafo Disconexo", grafo.grafo_4),
-    "5": ("Árvore Binária", grafo.grafo_5)
 }
 
 # Menu para seleção do grafo

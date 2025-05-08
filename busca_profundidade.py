@@ -15,5 +15,6 @@ def busca_profundidade(grafo, inicio, objetivo, caminho=None, visitados=None):
             resultado = busca_profundidade(grafo, vizinho, objetivo, caminho.copy(), visitados.copy())
             if resultado:
                 return resultado
-
+    print(f"❌ Tentativa mal sucedida: {caminho}")
+    print(f'')
     return None
